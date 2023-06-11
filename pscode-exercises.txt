@@ -14,19 +14,14 @@ Print ("The sum of the numbers is: ", SUM)
 
 // Exercise 2: Check if a Number is Even or Odd
 
-If (n % 2 == 0)
-	print (“EVEN”)
-ELSE IF (n % 2 != 0)
-	print (“ODD”)
-ELSE 
-	Print (“ERROR, YOU DID NOT GIVE ME A NUMBER”)
+Print ("Enter a Number: ")
+INPUT num
 
 
-If (n % 2 == 0)
-	print (“EVEN”)
-Else 
-print (“ODD”)
-
+IF oddeven % 2 = 0
+  print ("The number entered is Even")
+ELSE
+  print ("The number entered is Odd")            
 
 
 
